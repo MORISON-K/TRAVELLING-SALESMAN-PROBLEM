@@ -85,6 +85,6 @@ The Self-Organizing Map implementation:
 |--------------------------|------------------|
 | Lunkuse Dorcus           | 24/U/06515/PS    |
 | Serena Robinah           | 24/U/11034/PS    |
-| Aturinzire Hargreave    | 24/U/22602/PS    |
+| Aturinzire Hargreave    | 24/U/22603/PS    |
 | Abinsinguza Morison.K    | 24/U/02594/PS    |
 | Biar Elijah Mabior       | 24/E/21430/PS    |
